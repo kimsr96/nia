@@ -1,0 +1,6 @@
+{
+  "name": "K-Law Intelligence",
+  "description": "국가법령 Q&A 법률 챗봇 에이전트. 정부 OpenAPI 법령 및 판례 데이터에 기반하여 답변을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
